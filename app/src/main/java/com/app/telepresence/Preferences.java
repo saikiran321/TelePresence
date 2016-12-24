@@ -70,5 +70,7 @@ public class Preferences extends Activity {
         intent.putExtra( KEY_PORTNUM, portnum);
         this.startActivity( intent);
 
+
+
     }
 }
